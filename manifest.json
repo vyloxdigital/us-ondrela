@@ -1,0 +1,27 @@
+{
+  "name": "Ondrela — Card Tracker",
+  "short_name": "Ondrela",
+  "description": "Ondrela is a card-shaped item tracker that pairs with the tracker app already on your phone. See what the Ondrela listing publishes and what it leaves out.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#111116",
+  "theme_color": "#111116",
+  "categories": [
+    "utilities",
+    "travel",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

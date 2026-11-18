@@ -1,0 +1,42 @@
+# Ondrela
+
+> Ondrela is a card-shaped item tracker finished in gold, cut to roughly the footprint of a payment card so it fits a wallet slot, passport holder, luggage, a laptop bag or a bicycle bag. It pairs with the tracker feature already built into the owner's phone, so the seller states that no separate app, account or subscription is required. Published claims: about six months of battery per charge, recharging on any standard wireless charging pad, water resistant, about as thin as a standard credit card, ring-from-phone and leave-behind alerts, and a 60-day return policy. Pricing runs from **$44.99 for a single card down to $24.99 per card on the four-card bundle**: $44.99 for one (46% off), $69.98 for two (58% off), $89.97 for three (64% off) and $99.96 for four (70% off), all measured against a $82.99 single-card reference price. Postage is added at the checkout.
+
+A single page about Ondrela, written for buyers in the United States and last verified on 18 November 2026. Every product claim and every price was read from the official Ondrela listing and checkout, and each discount percentage was recalculated from the seller's own $82.99 reference figure rather than copied. It is not a review: no score, no star rating, no testimonials. Purchase links are paid affiliate links and the buyer's total is unaffected.
+
+## What Ondrela is
+
+- [What Ondrela actually is](https://us-ondrela.vercel.app/#what): The object, the job it does, what it requires from your phone, and its upkeep, in four lines.
+- [What is inside an Ondrela card](https://us-ondrela.vercel.app/#layers): The three layers visible in the product imagery — outer shell, circuit layer, backing plate — and where the published detail stops.
+- [How Ondrela works with your phone](https://us-ondrela.vercel.app/#works): No GPS and no data connection; a short-range radio signal relayed by other people's phones, and what that means for coverage.
+- [Ondrela on an iPhone or an Android phone](https://us-ondrela.vercel.app/#network): Works with the tracker app already on the handset; Apple's alerts run from iOS 14.5 and Google's from Android 6.
+- [Setting up Ondrela](https://us-ondrela.vercel.app/#setup): Three steps in the phone's existing tracker app, described by the seller as taking under a minute.
+- [Ondrela at a glance](https://us-ondrela.vercel.app/#specs): The full published specification in one table - form factor, finish, thickness, battery, charging, water resistance, alerts, compatibility, setup time and return window.
+- [Ondrela terms explained](https://us-ondrela.vercel.app/#terms): Eight expressions defined, including finding network, leave-behind alert, unknown tracker alert, reference price and "up to".
+
+## Living with Ondrela
+
+- [How thin Ondrela really is](https://us-ondrela.vercel.app/#thin): About as thin as a standard credit card, and what it takes to fit a battery, coil, radio and speaker into that.
+- [Ondrela battery life and charging](https://us-ondrela.vercel.app/#battery): Six months per charge on any standard wireless pad, with no coin cell to replace.
+- [Where people put an Ondrela card](https://us-ondrela.vercel.app/#uses): Six placements — wallet, passport holder, checked luggage, laptop bag, keys, bicycle bag.
+- [Ondrela, privacy and unwanted tracking](https://us-ondrela.vercel.app/#privacy): The Apple and Google unwanted-tracking specification, what to do if your phone warns you about an unknown tracker, and the limits of those alerts.
+- [Using Ondrela lawfully](https://us-ondrela.vercel.app/#law): The Department of Justice definition of stalking, and where to get help if you believe you are being tracked.
+- [What to expect from Ondrela](https://us-ondrela.vercel.app/#limits): How a finding network differs from GPS, where coverage is strongest, and what to do if something turns up somewhere it should not be.
+- [Ondrela against a keyring tracker](https://us-ondrela.vercel.app/#versus): What the card form factor gains and what it gives up, generically rather than against a named rival.
+
+## Buying Ondrela
+
+- [What Ondrela costs](https://us-ondrela.vercel.app/#price): All four quantities side by side - $44.99, $69.98, $89.97 and $99.96 - with the per-card price and discount for each.
+- [The Ondrela bundle deal](https://us-ondrela.vercel.app/#bundle): Four cards for $99.96 is less than two and a half bought singly, and why that still only matters for items you actually lose.
+- [The Ondrela 60-day return policy](https://us-ondrela.vercel.app/#returns): Sixty days on every quantity, with the conditions on the seller's Returns and Refunds Policy page.
+- [How an Ondrela order ships](https://us-ondrela.vercel.app/#shipping): Tracked orders, postage calculated at the checkout, a published shipping policy, and one payment with nothing recurring.
+- [Contacting Ondrela](https://us-ondrela.vercel.app/#support): A published US telephone number, +1 970-236-2765, plus a contact form and four published policy pages.
+- [Ondrela questions answered](https://us-ondrela.vercel.app/#answers): Ten questions answered from the official listing, matching the FAQPage structured data on the page.
+
+## External references
+
+- [Apple and Google: industry specification to address unwanted tracking](https://www.apple.com/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/): The 2023 joint draft allowing Bluetooth trackers to work with unauthorized tracking detection and alerts on both platforms.
+- [Apple: unwanted tracking alerts and personal safety](https://support.apple.com/guide/personal-safety/ips139b15fd9/web): Notifications for AirTags and other Find My accessories from iOS 14.5, and what to do when one appears.
+- [Google: find unknown trackers on Android](https://support.google.com/android/answer/13658562): Unknown tracker alerts on Android 6 and up, how they fire, and what to do next.
+- [FTC: what to know about monitoring technology](https://consumer.ftc.gov/articles/stalkerware-what-know): Guidance on contacting an advocate before removing anything, and the National Domestic Violence Hotline.
+- [US Department of Justice, Office on Violence Against Women: stalking](https://www.justice.gov/ovw/stalking): The federal definition of stalking and the helplines it points to.
